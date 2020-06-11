@@ -1,3 +1,5 @@
 # hello-world
 first repository to test github version control
-change change change is inevitable. Just making silly change to this silly file so that we can see how versioning branching works in github
+change change change is inevitable. 
+11-Jun-2020 10.42am.
+Today is a great day though i'm having some minor migraine but that is life. You keep on going.
